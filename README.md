@@ -1,4 +1,4 @@
-# Ex03 Time Table
+![Screenshot 2025-04-25 134707](https://github.com/user-attachments/assets/95a5a572-cce3-49dd-87e9-481ca870c45e)# Ex03 Time Table
 ## Date:
 
 ## AIM
@@ -24,9 +24,113 @@ Add your timetable using ```<td>``` tag.
 Execute the program using runserver command.
 
 ## PROGRAM
-
+```
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Slot Timetable</title>
+</head>
+<body>
+<center>
+<img src="c:\Users\admin\Desktop\saveetha eng logo.png" height="100" width="540">
+</center>
+<br>
+<table align="center" width="540" cellspacing="2" cellpadding="4" border="5" bgcolor="cyan">
+<caption><b>SLOT TIME TABLE - RAMESH KRISHNAN S (24001852)</b></caption>
+<tr align="center">
+<th bgcolor="yellow">Day/Time</th>
+<th bgcolor="yellow">Monday</th>
+<th bgcolor="yellow">Tuesday</th>
+<th bgcolor="yellow">Wednesday</th>
+<th bgcolor="yellow">Thursday</th>
+<th bgcolor="yellow">Friday</th>
+<th bgcolor="yellow">Saturday</th>
+</tr>
+<tr align="center">
+<th bgcolor="yellow">8-10</th>
+<td colspan="1" align="center">FREE SLOT</td>
+<td>CS</td>
+<td>FREE SLOT</td>
+<td>UI UX</td>
+<td>UI UX</td>
+<td>FREE SLOT</td>
+</tr>
+<tr align="center">
+<th bgcolor="yellow">10-12</th>
+<td>C PROG</td>
+<td>FUZZY</td>
+<td>FWAD</td>
+<td>FREE SLOT</td>
+<td>MATHS</td>
+<td>OS</td>
+</tr>
+<tr>
+<th bgcolor="yellow">12-1</th>
+<td colspan="6" align="center">L U N C H</td>
+</tr>
+<tr align="center">
+<th bgcolor="yellow">1-3</th>
+<td colspan="1" align="center">MATHS</td>
+<td>OS</td>
+<td>MENTOR</td>
+<td>FUZZY</td>
+<td>C PROG</td>
+<td>FREE SLOT</td>
+</tr>
+<tr align="center">
+<th bgcolor="yellow">3-5</th>
+<td colspan="2" align="center">FREE SLOT</td>
+<td>CS</td>
+<td>FREE SLOT</td>
+<td>FWAD</td>
+<td>FREE SLOT</td>
+</tr>
+</table>
+<br>
+<table align="center" cellspacing="2" cellpadding="4" border="2">
+<tr align="center">
+<th>S. No.</th>
+<th>Subject Code</th>
+<th>Subject Name</th>
+</tr>
+<tr>
+<td align="center">1.</td>
+<td align="center">19AI414</td>
+<td>Fundamentals of Web (FWAD)</td>
+</tr>
+<tr>
+<td align="center">2.</td>
+<td align="center">19AI304</td>
+<td>FUNDAMENTAL OF C</td>
+</tr>
+<tr>
+<td align="center">3.</td>
+<td align="center">19CS405</td>
+<td>OPERATING SYSTEM</td>
+</tr>
+<tr>
+<td align="center">4.</td>
+<td align="center">19CS416</td>
+<td>CLOUD SECURITY</td>
+</tr>
+<tr>
+<td align="center">5.</td>
+<td align="center">19CS549</td>
+<td>UI AND UX</td>
+</tr>
+<tr>
+<td align="center">6.</td>
+<td align="center">19EC603</td>
+<td>FUZZY</td>
+</tr>
+</table>
+</body>
+</html>
+```
 
 ## OUTPUT
+![Screenshot 2025-04-25 134707](https://github.com/user-attachments/assets/fe7d8113-4f99-4c29-89af-5f18772410e7)
+
 
 
 ## RESULT
