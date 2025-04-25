@@ -1,4 +1,4 @@
-![Screenshot 2025-04-25 134707](https://github.com/user-attachments/assets/95a5a572-cce3-49dd-87e9-481ca870c45e)# Ex03 Time Table
+
 ## Date:
 25-04-2025
 ## AIM
